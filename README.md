@@ -2,11 +2,34 @@
 ### Do rural buyers experience worse outcomes, or does the data show a smaller story?
 
 <p align="center">
-  <a href="https://www.kaggle.com/code/adarshmajhi/statistical-validation-of-geographic-disparity"><img src="https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Notebook"></a>
-  <a href="ecom.ipynb"><img src="https://img.shields.io/badge/Notebook-ecom.ipynb-111111?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebook"></a>
-  <a href="https://www.linkedin.com/in/adarshkmajhi/"><img src="https://img.shields.io/badge/LinkedIn-Adarsh%20K%20Majhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY"><img src="https://img.shields.io/badge/Data-Harvard%20Dataverse-7A0019?style=for-the-badge&logo=databricks&logoColor=white" alt="Harvard Dataverse"></a>
-</p>
+ <div align="center">
+<a href="https://colab.research.google.com/">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</a>
+<a href="https://www.kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
+   
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</a>
+<a href="https://numpy.org/">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</a>
+<a href="https://scipy.org/">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+</a>
+<a href="https://www.statsmodels.org/">
+  <img src="https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels">
+</a>
+
+</div>
 
 ---
 
