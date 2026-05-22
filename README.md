@@ -176,9 +176,6 @@ This heatmap shows that income changes the prediction more than geography does. 
 **Kaggle notebook**  
 [Statistical Validation of Geographic Disparity](https://www.kaggle.com/code/adarshmajhi/statistical-validation-of-geographic-disparity)
 
-**LinkedIn**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20K%20Majhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshkmajhi/)
-
 **Harvard Dataverse dataset**  
 [Amazon Consumer Purchases dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY)
 
