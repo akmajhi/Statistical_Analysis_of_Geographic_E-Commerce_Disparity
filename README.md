@@ -55,7 +55,7 @@ The geography is different, but the question is the same. Do urban and rural buy
 ---
 ## Notebook
 
-Attached to this repository: `Statistical_Analyiss_of_E-Commerce_Disparity.ipynb`
+Attached to this repository: [Statistical Analysis of Geographic E‑Commerce Disparity Notebook](./Statistical_Analysis_of_E-Commerce_Disparity.ipynb)
 
 The notebook contains the full analysis, including data cleaning, EDA, hypothesis testing, charts, printed outputs, and written interpretation.
 
@@ -143,19 +143,19 @@ The combined model stayed weak. Geography, income, price, and quantity together 
 
 ### H4 - Repeat rate by category
 
-`assets/H4-Repeat_Rate_by_Category.png`
+![Repeat rate by category](assets/H4-Repeat_Rate_by_Category.png)
 
 This is the strongest visual in the project. It shows that repeat behavior changes sharply by product type. Gift cards are high repeat. Books are low repeat. That spread is too large to ignore.
 
 ### H2 - Urban vs Rural repeat gap days
 
-`assets/H2-ECDF_of_Repeat-Gap-Days.png`
+![ECDF of repeat gap days](assets/H2-ECDF_of_Repeat-Gap-Days.png)
 
 This comparison shows how similar the two distributions are. The overlap is the point. Geography is real, but the difference is small.
 
 ### H7 - Predicted repeat probability by geo tier and income
 
-`assets/H7-Predicted_for_Geo_Tier_and_Income.png`
+![Predicted repeat probability by geo tier and income](assets/H7-Predicted_for_Geo_Tier_and_Income.png)
 
 This heatmap shows that income changes the prediction more than geography does. Even then, the model remains weak overall.
 
@@ -183,10 +183,6 @@ This heatmap shows that income changes the prediction more than geography does. 
 [Amazon Consumer Purchases dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY)
 
 ---
-## Author
-
-<div align="center">
-
 ## Author
 
 <div align="center">
